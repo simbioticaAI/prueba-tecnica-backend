@@ -7,6 +7,4 @@ router.get('/', function (req, res, next) {
 	res.json(movies)
 })
 
-// Crear ruta nueva GET /movies
-
 module.exports = router
