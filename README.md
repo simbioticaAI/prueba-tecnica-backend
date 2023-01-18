@@ -6,7 +6,7 @@
 
 ## Ejemplo de funcionamiento
 
-- URL: http://localhost:3000/?year=2003&genre=Drama&size=2
+- URL: http://localhost:3000/movies?year=2003&genre=Drama&size=2
 
 - Response:
 
