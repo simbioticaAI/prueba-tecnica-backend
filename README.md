@@ -1,8 +1,9 @@
 # Prueba tecnica
 
 - Crear ruta nueva por GET /movies
-- Implementar busqueda de pelicula por `name` (opcional) a traves de los <i>query parameters</i>
+- Implementar busqueda de pelicula por `name` a traves de los <i>query parameters</i>
 	- Ten en cuenta de que el nombre puede estar incompleto y no diferencia entre mayusculas y minusculas
+	- Además el nombre puede estar incompleto y de todas maneras debe tener un resultado
 - Filtrar el array de `movies` por los <i>query parameters</i> opcionales `year`, `genre`
 - Limitar la cantidad de elementos devueltos dependiendo del <i>query parameter</i> `size`
 
